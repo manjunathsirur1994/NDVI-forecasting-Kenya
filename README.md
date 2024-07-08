@@ -12,4 +12,3 @@ This project forecasts NDVI (Normalized Difference Vegetation Index) values to a
 
 By providing accurate NDVI predictions, this project enables the company to make informed decisions about lending equipment based on the current and forecasted vegetation cover, optimizing resource allocation and business expansion.
 
-END
