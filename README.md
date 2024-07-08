@@ -1,4 +1,4 @@
-NDVI Forecasting Project for Agricultural Equipment Lending. 
+**NDVI Forecasting Project for Agricultural Equipment Lending.** 
 
 This project forecasts NDVI (Normalized Difference Vegetation Index) values to assist a tractor and equipment lending company in gauging vegetation health and expanding their business based on vegetation cover. Utilizing MODIS13Q1 data from Google Earth Engine, the project is implemented in Python with Jupyter notebooks and includes the following components:
 
